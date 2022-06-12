@@ -1,0 +1,27 @@
+h1
+{
+text-align: center;
+
+}
+
+body
+{
+background-image:url(e_commerce_registration_form_template_thumb.jpg);
+background-size:cover;
+}
+
+label,button
+{
+font-size:20px;
+font-weight:bold;
+}
+
+legend
+{
+font-size:30px;
+}
+input,select
+{
+background-color:#c2f2ff
+}
+

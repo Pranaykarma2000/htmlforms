@@ -1,0 +1,37 @@
+body
+{
+background-image:url(pexels-pixabay-414645.jpg);
+text-align: center;
+background-size:cover;
+}
+p
+{
+font-size:30px;
+color:white;
+
+}
+div
+{
+background-color:;
+}
+h1
+{
+font-size:80px;
+color:white;
+}
+label
+{
+font-size:30;
+color:#F4EBD0;
+}
+input
+{
+font-size:25;
+filter:contrast(50%)
+
+}
+#c1,#c2
+{
+font-size:20;
+background-color:rgb(234, 221, 202);
+}
